@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon id="plugin.video.SportsDevil" name="SportsDevil" version="1.8.8.0" provider-name="MaxMustermann">
+<addon id="plugin.video.SportsDevil" name="SportsDevil" version="2015.09.24.0-c" provider-name="MaxMustermann">
   <requires>
    <import addon="xbmc.python" version="2.14.0"/>
    <import addon="script.module.requests" />
