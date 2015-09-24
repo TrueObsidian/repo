@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon
-  id="plugin.video.SportsDevil"
-  version="1.8.8.0"
-  name="SportsDevil"
-  provider-name="MaxMustermann">
+<addon id="plugin.video.SportsDevil" name="SportsDevil" version="1.8.8.0" provider-name="MaxMustermann">
   <requires>
    <import addon="xbmc.python" version="2.14.0"/>
    <import addon="script.module.requests" />
@@ -14,6 +10,7 @@
     point="xbmc.python.pluginsource"
     library="default.py">
    <provides>video</provides>
+   <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Play videos of different sports streaming sites</summary>
@@ -23,5 +20,3 @@
 </addon>
 
 </addons>
-Status API Training Shop Blog About Pricing
-© 2015 GitHub, Inc. Terms Privacy Security Contact Help
