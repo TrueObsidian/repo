@@ -12,7 +12,6 @@
 		<description lang="en">Watch Live Tv</description>
 		<genre>live tv</genre>
 	</extension>
-</addon>
 	
 	<addon id="repository.jewrepo" name="[COLOR purple]JewRepo[/COLOR]" version="1.5.4" provider-name="JewBMX">
     <requires>
@@ -45,7 +44,6 @@
         <platform>all</platform>
         <genre>movies,usa</genre>
     </extension>
-</addon>
 	
 	<addon id="repository.gaia" version="5.0.0" name="Gaia Repository" provider-name="Gaia">
 	<extension point="xbmc.addon.repository" name="Gaia Repository">
@@ -110,7 +108,6 @@
         <fanart>fanart.jpg</fanart>      
     </assets>
 	</extension>
-</addon>
 	
 	<addon id="repository.addons4kodi" name="Addons4Kodi Repository" version="1.3" provider-name="A4K">
 	<extension point="xbmc.addon.repository" name="Addons4Kodi Repository">
@@ -136,7 +133,6 @@
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
-	</addon>
 	
 	<addon id="plugin.video.elementum" name="Elementum" version="0.1.37" provider-name="elgatito">
     <requires>
@@ -174,6 +170,5 @@
             <screenshot>resources/screenshots/webui.png</screenshot>
         </assets>
     </extension>
-</addon>
 
 </addons>
