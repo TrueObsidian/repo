@@ -1,6 +1,20 @@
 <?xml version="1.1" encoding="UTF-8" standalone="yes"?>
 <addons>
 
+<addon id="repository.trueobsidian" name="TrueObsidian's Channel" version="1.2.0" provider-name="TrueObsidian">
+	<extension point="xbmc.addon.repository" name="TrueObsidian's Channel">
+		<info compressed="false">https://raw.githubusercontent.com/TrueObsidian/repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/TrueObsidian/repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/TrueObsidian/repo/master/download</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons from trueobsidian's repository</summary>
+		<description lang="en">Download and install add-ons from trueobsidian's addon repository.</description>
+		<disclaimer lang="en">I do it, so you don't have to</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="repository.temptv" name="Temptv Repo" version="0.0.5" provider-name="Tempest">
 	<extension point="xbmc.addon.repository" name="Tempest Repo">
         <info compressed="false">https://raw.githubusercontent.com/Tempest0580/temptv/master/zips/addons.xml</info>
