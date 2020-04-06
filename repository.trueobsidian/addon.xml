@@ -1,5 +1,5 @@
 ﻿<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.trueobsidian" name="TrueObsidian's Channel" version="1.2.0" provider-name="TrueObsidian">
+<addon id="repository.trueobsidian" name="TrueObsidian's Channel" version="1.2.1" provider-name="TrueObsidian">
 	<extension point="xbmc.addon.repository" name="TrueObsidian's Channel">
 		<info compressed="false">https://raw.githubusercontent.com/TrueObsidian/repo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/TrueObsidian/repo/master/addons.xml.md5</checksum>
